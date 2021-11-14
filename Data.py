@@ -19,7 +19,7 @@ By @fckualot
     # Home Button
     home_buttons = [
         [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton(text="🏠 Kembali 🏠", callback_data="home")]
+        [InlineKeyboardButton(text="🏠 Home 🏠", callback_data="home")]
     ]
 
     generate_button = [
@@ -29,37 +29,37 @@ By @fckualot
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton("✨ Maintaned By ✨", url="https://t.me/fckualot")],
+        [InlineKeyboardButton("✨ Maintaned By ✨", url="https://t.me/sarfarazstark")],
         [
-            InlineKeyboardButton("Cara Menggunakan Saya ❔", callback_data="help"),
+            InlineKeyboardButton("How to use me❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ Info Bot Lain ♥", url="https://t.me/rioprojects")],
+        [InlineKeyboardButton("♥ Other bot info ♥", url="https://t.me/bluewhalebots")],
     ]
 
     # Help Message
     HELP = """
 ✨ **Available Commands** ✨
 
-/about - Tentang Bot ini
-/help - This Message
-/start - Mulai Bot
-/generate - Mulai Generating Session
-/cancel - Membatalkan process
-/restart - Membatalkan process
+/about - About this bot
+/help - How to use this bot
+/start - Start Bot
+/generate - Start Generating Session
+/cancel - Cancel process
+/restart - Restart process
 """
 
     # About Message
     ABOUT = """
 **About This Bot** 
 
-Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @stringriobot
+A telegram bot to retrieve pyrograms and telethon string sessions by @bluewhalebots
 
-Group Support : [Gabung](https://t.me/riogroupsupport)
+Group Support : [Gabung](https://t.me/joinchat/aHHxc42aM-lmOGM1)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @fckualot
+Developer : @SarfarazStark
     """
