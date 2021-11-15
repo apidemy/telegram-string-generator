@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/RioProjectX/GenerateString",
+  "repository": "https://github.com/sarfarazstark/telegram-string-generator",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
@@ -49,7 +49,7 @@
     },
     "MUST_JOIN": {
       "description": "Add username/id of a channel/group",
-      "required": false,
+      "required": true,
       "value": ""
     }
   }
