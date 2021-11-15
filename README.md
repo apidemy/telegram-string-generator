@@ -58,11 +58,6 @@ Telegram bot to generate pyrogram and telethon string session.
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-## Credits
-
-- [Dan Tès](https://github.com/delivrance) for his [Pyrogram](https://docs.pyrogram.org) Library
-- [Lonami](https://github.com/Lonami) for his [Telethon](https://docs.telethon.dev) Library 
-- [aylak](https://t.me/ayIak) for **Telethon** idea of [v1.0.0](https://github.com/StarkBotsIndustries/StringSessionBot/commit/48e06bb6d9ed156797ef4bc0dab88820fef948f3)
 
 ## Support
 
