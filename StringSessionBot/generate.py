@@ -125,10 +125,10 @@ async def cancelled(msg):
         await msg.reply("Cancel Process!❌", quote=True, reply_markup=InlineKeyboardMarkup(Data.generate_button))
         return true
     elif "/restart" in msg.text:
-        await msg.reply("Memulai Ulang  Bot!", quote=True, reply_markup=InlineKeyboardMarkup(Data.generate_button))
+        await msg.reply("Restart Bot!", quote=True, reply_markup=InlineKeyboardMarkup(Data.generate_button))
         return True
     elif msg.text.startswith("/"):  # Bot Commands
-        await msg.reply("Membatalkan generation process!", quote=True)
+        await msg.reply("Cancel generation process!", quote=True)
         return True
     else:
         return False
