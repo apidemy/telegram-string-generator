@@ -12,7 +12,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rioProjectx/GenerateString)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sarfarazstark/telegram-string-generator)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -23,7 +23,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/RioProjectX/GenerateString
+   git clone https://github.com/sarfarazstark/telegram-string-generator
    ```
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
@@ -66,14 +66,14 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Support
 
-Channel :- [Rio Project](https://t.me/rioprojects)
+Channel :- [Blue Whale Bots](https://t.me/BlueWhalebots)
 
-Group Chat :- [Group support](https://t.me/riogroupsupport)
+Group Chat :- [Group support](https://t.me/bluewhalegroup)
 
 ## :)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/rioprojectx)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/sarfarazstark)
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/rioprojectx)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/sarfarazstark)
