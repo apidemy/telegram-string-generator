@@ -13,7 +13,7 @@ If you don't trust this bot,
 2) block bot or delete chat
 
 This Bot Works To Help You Get Session String Via Bot. Recommendations If You Want To Take String Use Another Account, So As Not To Delay. Thank you
-By @SarfarazStark
+By @ScalpFutures
     """
 
     # Home Button
