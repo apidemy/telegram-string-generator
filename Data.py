@@ -18,23 +18,26 @@ By @SarfarazStark
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
+        [InlineKeyboardButton("🔥 Start Generating Session 🔥",
+                              callback_data="generate")],
         [InlineKeyboardButton(text="🏠 Home 🏠", callback_data="home")]
     ]
 
     generate_button = [
-        [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")]
+        [InlineKeyboardButton(
+            "🔥 Start Generating Session 🔥", callback_data="generate")]
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton("✨ Maintaned By ✨", url="https://t.me/sarfarazstark")],
+        [InlineKeyboardButton("🔥 Start Generating Session 🔥",
+                              callback_data="generate")],
+        [InlineKeyboardButton("✨ Maintaned By ✨",
+                              url="https://t.me/ScalpFutures")],
         [
             InlineKeyboardButton("How to use me❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ Other bot info ♥", url="https://t.me/bluewhalebots")],
     ]
 
     # Help Message
