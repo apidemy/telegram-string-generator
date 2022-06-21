@@ -56,13 +56,11 @@ By @ScalpFutures
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to retrieve pyrograms and telethon string sessions by @bluewhalebots
-
-Group Support : [Gabung](https://t.me/joinchat/aHHxc42aM-lmOGM1)
+A telegram bot to retrieve pyrograms and telethon string sessions by @ScalpFutures
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @SarfarazStark
+Developer : @ScalpFutures
     """

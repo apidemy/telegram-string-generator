@@ -28,8 +28,11 @@ if __name__ == "__main__":
         raise Exception("Your API_ID/API_HASH is not valid.")
     except AccessTokenInvalid:
         raise Exception("Your BOT_TOKEN is not valid.")
+    except:
+        print("Exeption: Cannot run app")
+        raise
     uname = app.get_me().username
     print(f"@{uname} Started Successfully!")
     idle()
     app.stop()
-    print("Bot stopped. Alvida!")
+    print("Bot stopped!")
