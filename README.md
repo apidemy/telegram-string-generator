@@ -25,15 +25,13 @@ Telegram bot to generate pyrogram and telethon string session.
    ```markdown
    git clone https://github.com/apidemy/telegram-string-generator.git
    ```
-2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
-   
-3. Edit `Config.py` and fill the needed variables
+2. Edit `Config.py` and fill the needed variables
 
-4. Enter the directory
+3. Enter the directory
    ```markdown
    cd StringSessionBot
    ```
-5. Run the file
+4. Run the file
    ```markdown
    python3 generator.py
    ```
@@ -45,7 +43,6 @@ Telegram bot to generate pyrogram and telethon string session.
 - `API_ID` - Get this from [my.telegram.org](https://my.telegram.org/auth)
 - `API_HASH` - Get this from [my.telegram.org](https://my.telegram.org/auth)
 - `BOT_TOKEN` - Get this from [@BotFather](https://t.me/BotFather)
-- `DATABASE_URL` - Will be automatically added by Heroku.
 - `MUST_JOIN` - Username/ID of your telegram channel/group.
 
 ## Functions

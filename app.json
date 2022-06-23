@@ -8,23 +8,17 @@
     "python",
     "pyrogram"
   ],
-    "buildpacks": [{
-    "url": "heroku/python"
-  }],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
   "formation": {
     "worker": {
       "quantity": 1,
       "size": "free"
     }
   },
-  "addons": [
-      {
-         "options": {
-            "version": "12"
-         },
-         "plan": "heroku-postgresql"
-      }
-   ],
   "repository": "https://github.com/sarfarazstark/telegram-string-generator",
   "env": {
     "ENVIRONMENT": {
